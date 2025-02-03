@@ -1,0 +1,65 @@
+{
+  "aventures": [
+	{
+	  "name": "pochos",
+	  "nCombats": 2,
+	  "combats": [
+		{
+		  "nCombat": 0,
+		  "monstres": [
+			{
+			  "name": "Goblin",
+			  "challenge": "Minion",
+			  "experience": 2,
+			  "hitPoints": 5,
+			  "initiative": 0,
+			  "damageDice": "d4",
+			  "damageType": "Physical"
+			},
+			{
+			  "name": "Goblin",
+			  "challenge": "Minion",
+			  "experience": 2,
+			  "hitPoints": 5,
+			  "initiative": 0,
+			  "damageDice": "d4",
+			  "damageType": "Physical"
+			},
+			{
+			  "name": "Snuffler",
+			  "challenge": "Minion",
+			  "experience": 2,
+			  "hitPoints": 6,
+			  "initiative": 0,
+			  "damageDice": "d4",
+			  "damageType": "Physical"
+			}
+		  ]
+		},
+		{
+		  "nCombat": 1,
+		  "monstres": [
+			{
+			  "name": "Wraith",
+			  "challenge": "Minion",
+			  "experience": 6,
+			  "hitPoints": 14,
+			  "initiative": 0,
+			  "damageDice": "d6",
+			  "damageType": "Magical"
+			},
+			{
+			  "name": "Wraith",
+			  "challenge": "Minion",
+			  "experience": 6,
+			  "hitPoints": 14,
+			  "initiative": 0,
+			  "damageDice": "d6",
+			  "damageType": "Magical"
+			}
+		  ]
+		}
+	  ]
+	}
+  ]
+}

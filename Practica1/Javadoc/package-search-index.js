@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"business"},{"l":"business.entities"},{"l":"business.entities.personatge"},{"l":"persistence"},{"l":"presentation"}];updateSearchResults();
