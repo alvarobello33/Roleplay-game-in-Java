@@ -23,27 +23,27 @@ Simulate Adventures: Once your characters, monsters, and levels are ready, simul
 
 ## Files Included 📂
 
-The compressed file `Fase2_DPO_Grup43.zip` contains the following:
+The compressed file **`Fase2_DPO_Grup43.zip`** contains the following:
 
-- **'Practica1'** folder:
-  - Full project code 💻
-  - **'JavaDoc'** folder with the corresponding documentation 📄
+- `Practica1` folder:
+  - **src** folder with full project code 
+  - **'Javadoc'** folder with the corresponding documentation 📄
 
-- **Diagrama_Fase1_DPO_Grup_43.mdj** file containing the class diagram created using **StarUML** 🔧.
+- **Diagrama_Fase1_DPO_Grup_43.mdj** file containing the class diagram created using **StarUML**.
 - **DPOO-2223-Enunciat-F3F4.pdf** file containing the project statement specifications.
 
 ## How to Run the Project ⚙️
 
-1. Extract the contents of the `Fase2_DPO_Grup43.zip` file 📦.
+1. Extract the contents of the `Fase2_DPO_Grup43.zip` file .
 2. Open the **'Practica1'** folder in your IDE (preferably **IntelliJ IDEA**).
-3. Run the **'Main'** class to start the application ▶️.
-4. Follow the instructions displayed in the console 🖥️.
+3. Run the **'Main'** class to start the application.
+4. Follow the instructions displayed in the console.
 
 ## Development Environment 🛠️
 
-- **Programming Language**: Java ☕
-- **IDE**: IntelliJ IDEA 💻
+- **Programming Language**: Java
+- **IDE**: IntelliJ IDEA
 
 ## Documentation 📚
 
-- The project documentation is available in the **'JavaDoc'** folder for further details 📝.
+- The project setailed documentation is available in the **'JavaDoc'** folder for further details .
