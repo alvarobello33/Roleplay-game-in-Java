@@ -34,7 +34,7 @@ The compressed file **`Fase2_DPO_Grup43.zip`** contains the following:
 
 ## How to Run the Project ⚙️
 
-1. Extract the contents of the `Fase2_DPO_Grup43.zip` file .
+1. Download the contents of **Roleplay-game-in-Java**.
 2. Open the **'Practica1'** folder in your IDE (preferably **IntelliJ IDEA**).
 3. Run the **'Main'** class to start the application.
 4. Follow the instructions displayed in the console.
