@@ -29,7 +29,7 @@ The compressed file **`Fase2_DPO_Grup43.zip`** contains the following:
   - **src** folder with full project code 
   - **'Javadoc'** folder with the corresponding documentation 📄
 
-- **Diagrama_Fase1_DPO_Grup_43.mdj** file containing the class diagram created using **StarUML**.
+- **Diagrama_Fase1_DPO_Grup_43.mdj** file containing the class diagram created using **StarUML** following the layers presentation-business-persistence.
 - **DPOO-2223-Enunciat-F3F4.pdf** file containing the project statement specifications.
 
 ## How to Run the Project ⚙️
